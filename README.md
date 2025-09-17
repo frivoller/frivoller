@@ -28,18 +28,22 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frivoller/frivoller/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frivoller/frivoller/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frivoller/frivoller/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<br clear="both">
 
 <img align="left" height="100" src="https://cdna.artstation.com/p/assets/images/images/057/603/820/original/blake-s-animatedsiamesecat400x400ish.gif?1672119209"  />
 
 ###
 
 <h2 align="center">i code sometimes!<br>contact => melisyildiz707@gmail.com</h2>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frivoller/frivoller/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frivoller/frivoller/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frivoller/frivoller/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
